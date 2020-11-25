@@ -1,0 +1,12 @@
+{
+  "name": "time-tracker-app",
+  "displayName": "time-tracker-app",
+  "expo": {
+    "name": "time-tracker-app",
+    "slug": "time-tracker-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
